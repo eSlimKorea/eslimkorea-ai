@@ -1,8 +1,10 @@
 # eslimkorea-ai
 
-![image](https://github.com/user-attachments/assets/6e026b54-bd4a-4be3-8ac0-4d7aa63f6348)
-
-
+---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e026b54-bd4a-4be3-8ac0-4d7aa63f6348" alt="eSlimKorea Logo" width="200">
+</p>
+---
 
 # Introduction
 
