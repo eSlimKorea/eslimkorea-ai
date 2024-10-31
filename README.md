@@ -10,7 +10,7 @@
 
 # Introduction
 
-eSlimKorea is testing Tenstorrent’s NPU using TT-Buda, an AI/ML compiler stack developed by Tenstorrent, to evaluate and optimize AI model performance against traditional GPUs.
+eSlimKorea utilizes Tenstorrent’s AI/ML compiler stack, TT-Buda, to test Tenstorrent’s NPU, evaluating and optimizing AI model performance compared to existing GPUs.
 
 Note on terminology:
 
