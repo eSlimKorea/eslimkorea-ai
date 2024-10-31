@@ -24,4 +24,4 @@ Model demos are now part of a separate repo: [here](https://github.com/eSlimKore
 For detailed documentation on  TT-Buda refer to the [here](https://docs.tenstorrent.com/pybuda/latest/index.html).
 
 ## Build
-Instructions for installing and building the TT-Buda stack can be found [here](https://docs.tenstorrent.com/tenstorrent/v/tt-buda/installation).
+Instructions for installing and building the TT-Buda stack can be found [here](https://github.com/eSlimKorea/TT-Buda-Installation).
