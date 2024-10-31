@@ -1,8 +1,14 @@
 # eslimkorea-ai
 
-# PyBuda with Tenstorrent Integration
+![image](https://github.com/user-attachments/assets/6e026b54-bd4a-4be3-8ac0-4d7aa63f6348)
 
-PyBuda is a Python-based interface that allows seamless interaction with the TT-Buda AI/ML compiler stack from Tenstorrent. This setup facilitates the compiling and execution of AI/ML models from various frameworks, such as PyTorch and TensorFlow, directly on Tenstorrent hardware.
+
+
+# Introduction
+
+eSlimKorea is conducting advanced testing with Tenstorrent’s NPU to explore and validate its potential in accelerating AI/ML models. Our goal is to test various AI models on this emerging technology and compare its performance with traditional GPUs, aiming to identify advantages and areas for optimization with frameworks like PyTorch and TensorFlow.
+
+
 
 ## Quick Links
 - [PyBuda Docs](#docs)
