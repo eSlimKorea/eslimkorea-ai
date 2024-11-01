@@ -17,7 +17,7 @@ Note on terminology:
 TT-Buda is the official Tenstorrent AI/ML compiler stack and PyBuda is the Python interface for TT-Buda. PyBuda allows users to access and utilize TT-Buda's features directly from Python. This includes directly importing model architectures and weights from PyTorch, TensorFlow, ONNX, and TFLite.
 
 ## Test Models
-Model demos are now part of a separate repo: [here](https://github.com/eSlimKorea/TT-BUDA-TEST-Models)
+Model demos are now part of a separate repo: [here](https://github.com/eSlimKorea/Model-TEST-TT-BUDA/tree/main)
 
 
 ## Docs
